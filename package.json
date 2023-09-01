@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@babel/generator": "7.22.9",
-    "@babel/parser": "7.22.5",
+    "@babel/parser": "7.22.14",
     "@babel/types": "7.22.5",
     "@types/lodash-es": "4.17.9",
     "escodegen": "2.1.0",
