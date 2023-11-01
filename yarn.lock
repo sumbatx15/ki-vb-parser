@@ -752,10 +752,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/escodegen@0.0.8":
-  version "0.0.8"
-  resolved "https://registry.npmjs.org/@types/escodegen/-/escodegen-0.0.8.tgz#07909a705fcb678b8d042f4d89cd7309a69b4832"
-  integrity sha512-bWqXJArZ+Q44g8XfO0KfWiu0RfgdaXWnYpD6/1CLdlSKQd2x1Sa5yDI4S0JC1fmoYOy5+5Bpll+h4jMhocb5Ug==
+"@types/escodegen@0.0.9":
+  version "0.0.9"
+  resolved "https://registry.npmjs.org/@types/escodegen/-/escodegen-0.0.9.tgz#8630c8acb984873e114253b717cfac79efe09383"
+  integrity sha512-8HOVgEhBwGgKWvcdu17wkFgv8Br2UgL0bw4UM11iVhKTnO3DX415PBmyxBYvVRejqyVVZF2HRfuFKCc5arC1FQ==
 
 "@types/graceful-fs@^4.1.3":
   version "4.1.5"
