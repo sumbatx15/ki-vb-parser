@@ -9,7 +9,7 @@
     "@babel/generator": "7.23.0",
     "@babel/parser": "7.23.0",
     "@babel/types": "7.23.0",
-    "@types/lodash-es": "4.17.9",
+    "@types/lodash-es": "4.17.10",
     "escodegen": "2.1.0",
     "lodash": "4.17.21",
     "lodash-es": "4.17.21"
