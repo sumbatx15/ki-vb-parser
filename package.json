@@ -22,7 +22,7 @@
     "@tstv/tsconfig-common": "3.4.0",
     "@types/escodegen": "0.0.9",
     "@types/jest": "29.5.10",
-    "@types/node": "20.8.10",
+    "@types/node": "20.10.1",
     "cross-env": "7.0.3",
     "eslint": "8.54.0",
     "generate-changelog": "1.8.0",
