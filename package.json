@@ -8,7 +8,7 @@
   "dependencies": {
     "@babel/generator": "7.24.1",
     "@babel/parser": "7.24.1",
-    "@babel/types": "7.24.0",
+    "@babel/types": "7.24.5",
     "@types/lodash-es": "4.17.12",
     "escodegen": "2.1.0",
     "lodash": "4.17.21",
