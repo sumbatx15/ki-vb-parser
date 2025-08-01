@@ -23,7 +23,7 @@
     "@types/escodegen": "0.0.10",
     "@types/jest": "30.0.0",
     "@types/node": "24.0.8",
-    "cross-env": "7.0.3",
+    "cross-env": "10.0.0",
     "eslint": "9.32.0",
     "generate-changelog": "1.8.0",
     "jest": "30.0.5",
