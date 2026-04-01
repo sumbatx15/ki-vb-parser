@@ -19,7 +19,7 @@
     "@babel/core": "7.29.0",
     "@evilmartians/lefthook": "2.1.1",
     "@tstv/eslint-config": "4.1.1",
-    "@tstv/tsconfig-common": "3.7.1",
+    "@tstv/tsconfig-common": "3.7.2",
     "@types/escodegen": "0.0.10",
     "@types/jest": "30.0.0",
     "@types/node": "25.3.3",
