@@ -17,7 +17,7 @@
   "description": "",
   "devDependencies": {
     "@babel/core": "7.29.0",
-    "@evilmartians/lefthook": "2.1.4",
+    "@evilmartians/lefthook": "2.1.6",
     "@tstv/eslint-config": "4.1.2",
     "@tstv/tsconfig-common": "3.7.2",
     "@types/escodegen": "0.0.10",
