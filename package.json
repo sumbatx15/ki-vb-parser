@@ -6,7 +6,7 @@
     "url": "https://github.com/bennycode/ts-node-starter/issues"
   },
   "dependencies": {
-    "@babel/generator": "8.0.0",
+    "@babel/generator": "8.0.6",
     "@babel/parser": "8.0.6",
     "@babel/types": "8.0.6",
     "@types/lodash-es": "4.17.12",
